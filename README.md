@@ -17,6 +17,7 @@ Assignment For Internship
 6. For Authentication Give USER as Vippauttej and Password as: "PassKey" and Click on Next and again Next After By using Browse option select a place to download a Project
 ## Usage
 In the Place of PassKey, I Provided PassKey in the PDF.
+In ZeoTap You will find Application 1
 
 ## Contributing
 In the Rule Engine with AST Pass, the rules are as follows: salary > 50000 OR experience > 2, click Create Rule and write another rule, age> 30, AND department = 'Sales' and click on Create New Rule. Combine Both Rules By Using Combine Rules  After That Click On Evaluate Rule. You will get the Results
